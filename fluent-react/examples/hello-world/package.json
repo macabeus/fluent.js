@@ -10,8 +10,8 @@
     "fluent": "^0.8.0",
     "fluent-langneg": "^0.1.0",
     "fluent-react": "file:../../",
-    "react": "^16.3.2",
-    "react-dom": "^16.3.3"
+    "react": "16.13.0",
+    "react-dom": "16.13.0"
   },
   "devDependencies": {
     "parcel-bundler": "^1.9.7"
